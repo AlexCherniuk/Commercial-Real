@@ -1,0 +1,8 @@
+header {
+    display: inline;
+    margin: 0 auto;
+    height: 90px; /* Высота блока */
+    width: 1170px; /* Ширина блока */
+    background: rgb(253, 240, 244); /* Цвет фона */
+
+};
