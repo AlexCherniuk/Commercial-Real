@@ -1,0 +1,17 @@
+
+ul {
+  display: inline;
+    padding: 0 auto;
+  list-style-type: none;
+    overflow: hidden;
+    padding-inline-start: 250px;
+  }
+  
+li {
+  display: inline;  
+  }
+  
+a {
+  display: inline;
+    padding: 8px;
+}

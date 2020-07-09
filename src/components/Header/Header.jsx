@@ -6,15 +6,14 @@ import Nav from './Nav/Nav';
 
 
 
+
+
+
 const Header = (params) => {
     return (
-        <div className={s.container}>
+        <div className={s.header}>
       <Logo />
-      <Nav name="Квартиры" />
-      <Nav name="Цены" />
-      <Nav name="Квартиры" />
-      <Nav name="Квартиры" />
-      <Nav name="Квартиры" />
+      <Nav />
         </div>
     );
 }
