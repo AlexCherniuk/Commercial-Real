@@ -10,19 +10,19 @@ const Nav = (props) => {
     return (
         <nav className={s.li}>
             <div>
-                <a>Home</a>
+                <a href='/home'>Home</a>
             </div>
             <div>
-                <a>Testimonials</a>
+                <a href='/testimonials'>Testimonials</a>
             </div>
             <div>
-                <a>Past Sales</a>
+                <a href='/past_sales'>Past Sales</a>
             </div>
             <div>
-                <a>About Us</a>
+                <a href='/about_us'>About Us</a>
             </div>
             <div>
-                <a>Contact</a>
+                <a href='/contact'>Contact</a>
             </div>
 
         </nav>
