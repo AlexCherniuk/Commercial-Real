@@ -8,13 +8,24 @@ import Psales from './Past Sales/Psales';
 
 const Nav = (props) => {
     return (
-       <div className={s.li}>
-           <Home />
-           <Psales />
-           <Tes />
-           <About />
-           <Contact />
-       </div>
+        <nav className={s.li}>
+            <div>
+                <a>Home</a>
+            </div>
+            <div>
+                <a>Testimonials</a>
+            </div>
+            <div>
+                <a>Past Sales</a>
+            </div>
+            <div>
+                <a>About Us</a>
+            </div>
+            <div>
+                <a>Contact</a>
+            </div>
+
+        </nav>
     );
 }
 

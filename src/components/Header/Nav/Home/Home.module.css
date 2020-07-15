@@ -1,17 +1,11 @@
-
-ul {
-  display: inline;
-    padding: 0 auto;
-  list-style-type: none;
-    overflow: hidden;
-    padding-inline-start: 250px;
-  }
-  
-li {
-  display: inline;  
-  }
-  
-a {
-  display: inline;
-    padding: 8px;
+.item {
+  background: cornflowerblue url(./../../../../imgs/Photo2.jpg);
+  height: 500px;
+  background-size: 100%;
+}
+.content {
+  height: 500px;
+display: flex;
+align-items: center;
+justify-content: center;
 }

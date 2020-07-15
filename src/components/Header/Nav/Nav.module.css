@@ -7,3 +7,6 @@
     padding-inline-start: 250px;
   }
   
+   div {
+     display: inline;
+   }
