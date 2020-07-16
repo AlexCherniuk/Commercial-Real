@@ -4,7 +4,11 @@ import s from './Tes.module.css';
 
 const Tes = (props) => {
     return (
-      <a>Testimonials</a>
+      <div className={s.item}>
+      <div className={s.content}>
+        <h1>Testimonials</h1>
+      </div>
+    </div>
     );
 }
 

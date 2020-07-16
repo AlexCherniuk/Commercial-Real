@@ -3,7 +3,11 @@ import s from './Contact.module.css';
 
 const Contact = (props) => {
     return (
-      <a>Contact</a>
+      <div className={s.item}>
+      <div className={s.content}>
+        <h1>Contact</h1>
+      </div>
+    </div>
     );
 }
 
