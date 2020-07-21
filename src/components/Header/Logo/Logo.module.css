@@ -1,1 +1,14 @@
+.logo {
+    width: 250px;
+    line-height: 90px;
+    float: left;
+    box-sizing: border-box;
+}
 
+.logo a {
+    display: block;
+}
+
+.logo img {
+    width: 100%;
+}

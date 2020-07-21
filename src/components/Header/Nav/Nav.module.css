@@ -6,8 +6,17 @@
     overflow: hidden;
     padding-inline-start: 250px;
   }
+  a {
+    color: rgb(35, 116, 116);
+    font-size: large;
+    text-decoration: none;
+  }
   
    div {
      display: inline;
-     margin: 20px;
+     margin: 10px;
+   }
+
+   a.active {
+     color: rgba(74, 183, 190, 0.596);     
    }
