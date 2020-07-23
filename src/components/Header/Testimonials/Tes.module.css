@@ -23,9 +23,7 @@ grid-template-columns: 3fr 3fr ;
 .dialogsItem .active {
   color: gold;
 }
-.messages {
-  /* padding: 10px; */
-}
+
 .message {
   display: table;
 /* padding: 10px; */
