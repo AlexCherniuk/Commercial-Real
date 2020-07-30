@@ -7,7 +7,7 @@ const Logo = (params) => {
 
         <div className={s.logo}>
             <NavLink to='/'>
-                <img src={require('./../../../imgs/BanyanCo.png')} alt="logo"></img>
+                <img src={require('./../../imgs/BanyanCo.png')} alt="logo"></img>
             </NavLink>
 
         </div>

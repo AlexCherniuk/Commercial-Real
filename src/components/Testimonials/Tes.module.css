@@ -1,5 +1,5 @@
 .item {
-  background: cornflowerblue url(./../../../imgs/Photo2.jpg);
+  background: cornflowerblue url(./../../imgs/Photo2.jpg);
   height: 500px;
   background-size: 100%;
 }
